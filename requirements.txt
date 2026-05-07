@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+supabase
+openai
+python-dotenv
+opencv-python
+mediapipe==0.10.9
+numpy
+httpx
+fastapi
+opencv-python-headless
